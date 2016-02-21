@@ -1,10 +1,13 @@
 
 
 Data Pre-processing and Cleaning in R:Step-by-Step Tutorial
+
+Matteo Manca (matteomanca@eurecat.org)
+
+February 22, 2016
+
 ------------------------------------------------------------------
 
-##Matteo Manca (matteomanca@eurecat.org)
-##February 22, 2016
 
 
 

@@ -409,6 +409,9 @@ For more detalis about the outliers:
 
 ##References
 
-1. [https://github.com/matteomanca/DataScienceSpCourseNotes/blob/master/2_RPROG/R_Programming_Course_Notes.pdf](https://github.com/matteomanca/DataScienceSpCourseNotes/blob/master/2_RPROG/R_Programming_Course_Notes.pdf)
-
-2. [https://www.siam.org/meetings/sdm10/tutorial3.pdf](https://www.siam.org/meetings/sdm10/tutorial3.pdf)
+1. https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf
+2. https://www.coursera.org/learn/data-cleaning
+3. https://www.coursera.org/learn/r-programming
+4. http://www.r-bloggers.com
+5. [https://github.com/matteomanca/DataScienceSpCourseNotes/blob/master/2_RPROG/R_Programming_Course_Notes.pdf](https://github.com/matteomanca/DataScienceSpCourseNotes/blob/master/2_RPROG/R_Programming_Course_Notes.pdf)
+6. [https://www.siam.org/meetings/sdm10/tutorial3.pdf](https://www.siam.org/meetings/sdm10/tutorial3.pdf)

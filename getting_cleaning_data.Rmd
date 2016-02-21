@@ -4,9 +4,6 @@ title: "Data Pre-processing and Cleaning in R"
 subtitle: "Step-by-Step Tutorial"
 author: "Matteo Manca (matteo.manca@eurecat.org)"
 date: "February 22, 2016"
-output: slidy_presentation
-template: quarterly_report.html
-mode: selfcontained
 footer: " Data Pre-processing and Cleaning in R: Step-by-Step Tutorial (Matteo Manca) "
 ---
 
